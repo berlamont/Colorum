@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorum.iOS", "Colorum\Colo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorum.UWP", "Colorum\Colorum.UWP\Colorum.UWP.csproj", "{17EDFE9B-0AFB-4B99-87FA-57480418D994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorum", "Colorum\Colorum\Colorum.csproj", "{16652DE1-AAE7-431B-8821-A736BD79FA57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorum", "Colorum\Colorum\Colorum.csproj", "{16652DE1-AAE7-431B-8821-A736BD79FA57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

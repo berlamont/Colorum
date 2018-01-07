@@ -120,6 +120,24 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.121934" />
+    <PackageReference Include="Xamarin.Forms.CarouselView">
+      <Version>2.3.0-pre2</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Pages">
+      <Version>2.5.0.121934</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Pages.Azure">
+      <Version>2.5.0.121934</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Theme.Base">
+      <Version>1.0.0.43-pre1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Theme.Dark">
+      <Version>1.0.0.43-pre1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Theme.Light">
+      <Version>1.0.0.43-pre1</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\tab_about.png" />
