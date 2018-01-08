@@ -25,5 +25,12 @@
                 <views:AboutPage />
             </x:Arguments>
         </NavigationPage>
+        
+        <NavigationPage Title="Test">
+          <x:Arguments>
+                <views:TestPage />
+            </x:Arguments>
+        </NavigationPage>
+   
     </TabbedPage.Children>
 </TabbedPage>
